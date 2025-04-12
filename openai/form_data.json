@@ -1,0 +1,23 @@
+[
+  {
+    "name": "username",
+    "type": "string",
+    "required": true,
+    "description": "用户名，长度需在3-20个字符之间",
+    "value": "new_username"
+  },
+  {
+    "name": "age",
+    "type": "number",
+    "required": false,
+    "description": "年龄，请输入正整数",
+    "value": null
+  },
+  {
+    "name": "email",
+    "type": "string",
+    "required": true,
+    "description": "电子邮箱地址，用于接收通知",
+    "value": null
+  }
+]

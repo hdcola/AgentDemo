@@ -3,6 +3,7 @@ import os
 from typing import Dict, Any
 import sys
 import os.path
+from .form_schema import read_form_schema
 
 # 导入表单结构模块
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
