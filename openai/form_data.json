@@ -18,6 +18,6 @@
     "type": "string",
     "required": true,
     "description": "电子邮箱地址，用于接收通知",
-    "value": null
+    "value": "abc@abc.com"
   }
 ]
